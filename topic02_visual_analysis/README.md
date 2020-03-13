@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://habr.com/ru/company/ods/blog/323210/">
-    <img width="450" height="300" src="https://miro.medium.com/max/1305/1*mN1oy2M6X5pPeIkZXLTDeg.jpeg">
+    <img height="300" src="https://miro.medium.com/max/1305/1*mN1oy2M6X5pPeIkZXLTDeg.jpeg">
   </a>
 </p>
 
