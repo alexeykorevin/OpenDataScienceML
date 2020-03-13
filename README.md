@@ -12,6 +12,7 @@
 Курс состоит из 10-ти тем:
 
 1. [Первичный анализ данных с Pandas](topic01_pandas_data_analysis)
+
 2. [Визуальный анализ данных c Python](topic02_visual_analysis)
 3. [Классификация, деревья решений и метод ближайших соседей](topic03_decision_trees_knn)
 4. [Линейные модели классификации и регрессии](topic04_linear_models)
