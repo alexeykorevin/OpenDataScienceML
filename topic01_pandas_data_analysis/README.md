@@ -1,8 +1,8 @@
 # Тема "Первичный анализ данных с Pandas"
 
 <p align="center">
-  <a href="https://www.coursera.org/learn/mathematics-and-python">
-    <img src="https://habrastorage.org/files/10c/15f/f3d/10c15ff3dcb14abdbabdac53fed6d825.jpg">
+  <a href="https://habr.com/ru/company/ods/blog/322626/">
+    <img width="550" height="300" src="https://miro.medium.com/max/763/0*D0RQ889t5o6H2A3V.jpg">
   </a>
 </p>
 
